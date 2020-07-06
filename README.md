@@ -1,4 +1,25 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Garrett, a computer science student at UC San Diego, and currently
+a fellow at Major League Hacking. Programming is something I'm passionate about,
+and I just love coding and learning whatever I can.
+
+## About me
+### 🔢 Math lover
+  - I love reading and studying math! Topics I'm interested in: numerical analysis,
+    linear algebra, real analysis, and computer science theory
+
+### 🧑‍💻 Proud [1x engineer](https://1x.engineer/)
+  - Work-life balance is important!
+
+### 🎹 Amateur pianist
+  - Music helps me relax and destress.
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/garrettluu/)
+- [Facebook](https://www.facebook.com/garrettluu/)
+- [Personal Website](https://garrettluu.com/)
 
 <!--
 **garrettluu/garrettluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
