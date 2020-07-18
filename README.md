@@ -4,16 +4,7 @@ I'm Garrett, a computer science student at UC San Diego, and currently
 a fellow at Major League Hacking. Programming is something I'm passionate about,
 and I just love coding and learning whatever I can.
 
-## About me
-### 🔢 Math lover
-  - I love reading and studying math! Topics I'm interested in: numerical analysis,
-    linear algebra, real analysis, and computer science theory
-
-### 🧑‍💻 Proud [1x engineer](https://1x.engineer/)
-  - Work-life balance is important!
-
-### 🎹 Amateur pianist
-  - Music helps me relax and destress.
+<img src="about.png">
 
 ## Links
 
