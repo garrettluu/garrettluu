@@ -9,7 +9,7 @@ and I just love coding and learning whatever I can.
   - I love reading and studying math! Topics I'm interested in: numerical analysis,
     linear algebra, real analysis, and computer science theory
 
-### 🧑‍💻 Proud [1x engineer](https://1x.engineer/)
+### 👨‍💻 Proud [1x engineer](https://1x.engineer/)
   - Work-life balance is important!
 
 ### 🎹 Amateur pianist
