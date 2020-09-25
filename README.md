@@ -17,6 +17,7 @@ and I just love coding and learning whatever I can.
 
 ## Links
 
+- [Resume](https://drive.google.com/file/d/1XNBW0EtEYtgf4n4Aq31kQ0aaD5uToIjr/view?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/garrettluu/)
 - [Facebook](https://www.facebook.com/garrettluu/)
 - [Personal Website](https://garrettluu.com/)
