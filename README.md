@@ -1,23 +1,18 @@
 ## Hi there 👋
 
 I'm Garrett, a computer science student at UC San Diego, and currently
-a fellow at Major League Hacking. Programming is something I'm passionate about,
+a developer for the Digital Media Lab at the Geisel Library. Programming is something I'm passionate about,
 and I just love coding and learning whatever I can.
 
 ## About me
-### 🔢 Math lover
-  - I love reading and studying math! Topics I'm interested in: numerical analysis,
+  - **🔢 Math lover** - I love reading and studying math! Topics I'm interested in: numerical analysis,
     linear algebra, real analysis, and computer science theory
-
-### 👨‍💻 Proud [1x engineer](https://1x.engineer/)
-  - Work-life balance is important!
-
-### 🎹 Amateur pianist
-  - Music helps me relax and destress.
+  - **👨‍💻 Proud [1x engineer](https://1x.engineer/)** - Work-life balance is important!
+  - **🎹 Amateur pianist** - Music helps me relax and destress.
 
 ## Links
 
-- [Resume](https://drive.google.com/file/d/1XNBW0EtEYtgf4n4Aq31kQ0aaD5uToIjr/view?usp=sharing)
+- [Resume](https://docs.google.com/document/d/1u4pMUt0WemoGiAADqEUi_PTWAcVzluE4GBZmy1XGA7A/edit?usp=sharing)
 - [LinkedIn](https://www.linkedin.com/in/garrettluu/)
 - [Facebook](https://www.facebook.com/garrettluu/)
 - [Personal Website](https://garrettluu.com/)
