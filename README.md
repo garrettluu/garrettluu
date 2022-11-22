@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Garrett, a computer science student at UC San Diego, and currently
-a developer for the Digital Media Lab at the Geisel Library. Programming is something I'm passionate about,
+a developer for the Cultural Heritage Engineering Initiative (CHEI) at the Qualcomm Institute. Programming is something I'm passionate about,
 and I just love coding and learning whatever I can.
 
 ## About me
